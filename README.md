@@ -45,7 +45,17 @@ Active Portfolio:
 </td>
 <td width="38%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hungle2910&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="Hung Le GitHub stats" />
+<table>
+<tr>
+<td align="center"><strong>Backend</strong><br />Java, MVC, Spring Boot</td>
+</tr>
+<tr>
+<td align="center"><strong>Frontend</strong><br />React dashboards and workflow UI</td>
+</tr>
+<tr>
+<td align="center"><strong>Systems</strong><br />SQL Server, IoT telemetry, applied AI research</td>
+</tr>
+</table>
 
 </td>
 </tr>
