@@ -187,6 +187,8 @@ A desktop productivity app for personal task tracking and simple daily workflow 
 
 ---
 
+## 🔬 Research Project
+
 ### 🔬 Quantum-Inspired NFR Classification
 
 ```text
