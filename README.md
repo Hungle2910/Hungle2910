@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Backend%20%7C%20Full-stack%20%7C%20IoT%20%7C%20Applied%20AI&descAlignY=58&descSize=17)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Primary+Languages%3A+Java+%7C+JavaScript+%7C+Python;Full-stack+Development+and+Data-driven+Systems;Applied+AI+Research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+JavaScript+%7C+Python;Full-stack+Systems" alt="Typing SVG" />
 
 ### Portfolio profile updated on July 5, 2026
 
