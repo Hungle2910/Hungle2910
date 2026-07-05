@@ -167,7 +167,7 @@ A full-stack IoT home safety platform combining smart lock control, sensor telem
 - Supports telemetry, alerts, fingerprint management, access logs, role-based control, and live updates.
 - Demonstrates full-stack architecture across firmware, backend, database, and frontend UI.
 
-[![Repository](https://img.shields.io/badge/Repository-Home%20Safety%20System%20V2-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Integrated-Home-Safety-System-V2)
+[![Repository](https://img.shields.io/badge/Repository-Home%20Safety%20System%20V2-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/integrated-home-safety-v2)
 
 ---
 
