@@ -40,6 +40,8 @@ Working With:
 Current Projects:
   - Hung's To-Do List Desktop App
   - Motorcycle Sales Appointment System
+  - Smart Automated Car Wash Management System
+  - Integrated Home Safety System V2
   - Quantum-Inspired NFR Classification
 ```
 
@@ -145,6 +147,38 @@ A web system for motorcycle sales management and showroom appointment scheduling
 
 ---
 
+### Smart Automated Car Wash Management System
+
+```text
+React | TypeScript | Booking | Loyalty Program
+```
+
+A smart car wash management prototype for booking, customer vehicles, wash sessions, and loyalty rewards.
+
+- Models end-to-end car wash operations from customer registration to checkout.
+- Includes advance booking rules, tiered loyalty points, rewards, promotions, and notifications.
+- Strong project for showing business-rule analysis and practical workflow design.
+
+[![Repository](https://img.shields.io/badge/Repository-Smart%20Car%20Wash%20System-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Smart-Automated-Car-Wash-Management-System)
+
+---
+
+### Integrated Home Safety System V2
+
+```text
+Java Spring Boot | React | IoT | ESP32
+```
+
+A full-stack IoT home safety platform combining smart lock control, sensor monitoring, and real-time alerts.
+
+- Connects ESP32 sensor hardware with a Spring Boot backend and React dashboard.
+- Supports device telemetry, alerts, fingerprint management, access logs, and role-based control.
+- Shows full-stack system architecture across firmware, backend APIs, database, and frontend UI.
+
+[![Repository](https://img.shields.io/badge/Repository-Home%20Safety%20System%20V2-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Integrated-Home-Safety-System-V2)
+
+---
+
 ### Quantum-Inspired NFR Classification
 
 ```text
@@ -168,9 +202,10 @@ An applied AI experiment exploring non-functional requirement classification wit
 | Backend | Desktop / UI | Database | AI / Data | Tools |
 |---|---|---|---|---|
 | Java | JavaScript | SQL Server | Python | Git |
-| Servlet / JSP | Electron-style apps | Relational design | Classification | GitHub |
-| MVC structure | HTML / CSS | CRUD workflows | Experiment notes | VS Code |
-| Business workflows | Usable interfaces | Data modeling | Evaluation habits | Documentation |
+| Spring Boot | React | Relational design | Classification | GitHub |
+| Servlet / JSP | Electron-style apps | CRUD workflows | Experiment notes | VS Code |
+| MVC structure | HTML / CSS | Data modeling | Evaluation habits | Documentation |
+| Business workflows | Usable interfaces | IoT telemetry | Requirements analysis | API testing |
 
 </div>
 
@@ -181,6 +216,7 @@ An applied AI experiment exploring non-functional requirement classification wit
 - Improve Java backend structure and MVC project quality.
 - Add screenshots, setup guides, and demo notes to portfolio repositories.
 - Polish the to-do desktop app into a stronger public project.
+- Keep the smart car wash and home safety repositories visible with clearer demos and screenshots.
 - Strengthen SQL Server database design and workflow modeling.
 - Make applied AI experiments easier to reproduce and explain.
 - Build a consistent, real contribution history through useful project updates.
