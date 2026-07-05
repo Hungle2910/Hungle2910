@@ -121,19 +121,85 @@ Portfolio Areas:
 
 ---
 
-## 🗺️ Portfolio Overview
+## 🏆 Featured Projects
 
-<div align="center">
+### 🏍️ MotoSales Commerce Platform
 
-| Area | Repository | Stack | Focus |
-|---|---|---|---|
-| Desktop productivity | [To-Do List Desktop App](https://github.com/Hungle2910/hungs-to-do-list-desktop-app) | JavaScript | Task workflow, app state, desktop UI |
-| Commerce web system | [MotoSales Commerce Platform](https://github.com/Hungle2910/Motorcycle-selling) | Java, Servlet/JSP, SQL Server | MVC backend, checkout, payments, admin operations |
-| Operations platform | [Smart Automated Car Wash](https://github.com/Hungle2910/Smart-Automated-Car-Wash-Management-System) | React, TypeScript | Booking, loyalty, business rules, dashboard thinking |
-| IoT safety platform | [Integrated Home Safety V2](https://github.com/Hungle2910/Integrated-Home-Safety-System-V2) | Spring Boot, React, ESP32 | Full-stack IoT, real-time alerts, access control |
-| Research / Applied AI | [Quantum-Inspired NFR Classification](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification) | Python, Applied AI | Requirements engineering and classification experiments |
+```text
+Java • Servlet/JSP • MVC • SQL Server • VNPay • Google OAuth • Gmail SMTP
+```
 
-</div>
+A Java MVC commerce platform for motorcycle showroom sales, checkout, appointment scheduling, and admin operations.
+
+- Product browsing, filtering, cart/session checkout, order history, and showroom appointment flow.
+- SQL Server data layer with DAO/service structure and admin management screens.
+- Integrates Google OAuth login, Gmail invoice emails, and VNPay sandbox payment callbacks.
+
+[![Repository](https://img.shields.io/badge/Repository-MotoSales%20Commerce%20Platform-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Motorcycle-selling)
+
+---
+
+### 🚘 Smart Automated Car Wash Management System
+
+```text
+React • TypeScript • Booking Workflow • Loyalty Program • Business Rules
+```
+
+A smart operations platform for car wash booking, customer vehicles, wash sessions, and loyalty rewards.
+
+- Models the full business flow from customer registration to checkout.
+- Covers advance booking, service sessions, tiered loyalty, rewards, promotions, and notifications.
+- Highlights workflow analysis, requirements modeling, and dashboard-style product thinking.
+
+[![Repository](https://img.shields.io/badge/Repository-Smart%20Car%20Wash%20System-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Smart-Automated-Car-Wash-Management-System)
+
+---
+
+### 🏠 Integrated Home Safety System V2
+
+```text
+Spring Boot • React • IoT • ESP32 • WebSocket • Access Control
+```
+
+A full-stack IoT home safety platform combining smart lock control, sensor telemetry, and real-time alerts.
+
+- Connects ESP32 hardware with a Spring Boot API and React dashboard.
+- Supports telemetry, alerts, fingerprint management, access logs, role-based control, and live updates.
+- Demonstrates full-stack architecture across firmware, backend, database, and frontend UI.
+
+[![Repository](https://img.shields.io/badge/Repository-Home%20Safety%20System%20V2-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Integrated-Home-Safety-System-V2)
+
+---
+
+### ✅ To-Do List Desktop App
+
+```text
+JavaScript • Desktop App • Productivity • Task Workflow
+```
+
+A desktop productivity app for personal task tracking and simple daily workflow management.
+
+- Focuses on practical JavaScript app structure and usable task interactions.
+- Includes a compact productivity workflow around daily tasks and app state.
+- Represents the desktop/application side of the portfolio.
+
+[![Repository](https://img.shields.io/badge/Repository-To--Do%20Desktop%20App-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/hungs-to-do-list-desktop-app)
+
+---
+
+### 🔬 Quantum-Inspired NFR Classification
+
+```text
+Research • Python • Applied AI • Requirements Engineering • Classification
+```
+
+An applied AI research project exploring quantum-inspired ideas for non-functional requirement classification.
+
+- Focuses on clearer classification support for software requirements analysis.
+- Uses Python experimentation, dataset preparation, classification workflows, and evaluation thinking.
+- Separates academic research work from product-style software projects.
+
+[![Repository](https://img.shields.io/badge/Repository-Quantum%20NFR%20Classification-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification)
 
 ---
 
