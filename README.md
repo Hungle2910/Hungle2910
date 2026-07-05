@@ -29,13 +29,14 @@ Engineering Focus:
   - Java backend and MVC web applications
   - React dashboards and workflow-focused UI
   - SQL Server and database-backed systems
+  - Commerce workflows with auth, payment, and email integrations
   - IoT safety systems with real-time monitoring
   - Applied AI research for software requirements
 
 Active Portfolio:
   Software Projects:
     - Hung's To-Do List Desktop App
-    - Motorcycle Sales Appointment System
+    - MotoSales Commerce Platform
     - Smart Automated Car Wash Management System
     - Integrated Home Safety System V2
   Research Project:
@@ -53,7 +54,7 @@ Active Portfolio:
 <td align="center"><strong>Frontend</strong><br />React dashboards and workflow UI</td>
 </tr>
 <tr>
-<td align="center"><strong>Systems</strong><br />SQL Server, IoT telemetry, applied AI research</td>
+<td align="center"><strong>Systems</strong><br />SQL Server, payment flows, IoT telemetry</td>
 </tr>
 </table>
 
@@ -75,6 +76,7 @@ Active Portfolio:
 ![Servlet JSP](https://img.shields.io/badge/Servlet%20%2F%20JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React Dashboard](https://img.shields.io/badge/React%20Dashboard-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Payment Integration](https://img.shields.io/badge/Payment%20Integration-005BAA?style=for-the-badge&logo=visa&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT%20Systems-0F766E?style=for-the-badge&logo=espressif&logoColor=white)
 ![Applied AI](https://img.shields.io/badge/Applied%20AI-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white)
 
@@ -142,19 +144,19 @@ A desktop productivity app for personal task tracking and simple daily workflow 
 </td>
 <td width="50%">
 
-### Motorcycle Sales Appointment System
+### MotoSales Commerce Platform
 
 ```text
-Java | Servlet/JSP | MVC | SQL Server
+Java | Servlet/JSP | MVC | SQL Server | VNPay
 ```
 
-A Java web system for motorcycle sales management and showroom appointment scheduling.
+A Java MVC commerce platform for motorcycle showroom sales, checkout, appointment scheduling, and admin operations.
 
-- Organizes sales and appointments with MVC-style Java web architecture.
-- Uses SQL Server for persistent business data and workflow records.
-- Shows backend flow design, domain modeling, and database-backed screens.
+- Implements product browsing, filtering, cart/session checkout, showroom appointment flow, and order history.
+- Integrates SQL Server, Google OAuth login, Gmail SMTP invoice emails, and VNPay sandbox payments.
+- Shows practical Java Servlet/JSP architecture with DAO, service layer, admin dashboard, and deployment notes.
 
-[![Repository](https://img.shields.io/badge/Repository-Motorcycle%20Sales%20System-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/motorcycle-sales-appointment-system)
+[![Repository](https://img.shields.io/badge/Repository-MotoSales%20Commerce%20Platform-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Motorcycle-selling)
 
 </td>
 </tr>
@@ -223,7 +225,7 @@ This is the research-focused project in the portfolio. It explores how quantum-i
 | Area | Project | Main Stack | What It Demonstrates |
 |---|---|---|---|
 | Desktop productivity | To-Do List Desktop App | JavaScript | App state, task workflow, UI polish |
-| Business web system | Motorcycle Sales Appointment System | Java, Servlet/JSP, SQL Server | MVC backend, database design, appointments |
+| Commerce web system | MotoSales Commerce Platform | Java, Servlet/JSP, SQL Server | MVC backend, checkout, payments, admin operations |
 | Operations platform | Smart Automated Car Wash | React, TypeScript | Booking, loyalty, business rules, dashboard thinking |
 | IoT safety platform | Integrated Home Safety V2 | Spring Boot, React, ESP32 | Full-stack IoT, real-time alerts, access control |
 | Research / Applied AI | Quantum-Inspired NFR Classification | Python, Applied AI | Requirements engineering and classification experiments |
@@ -241,7 +243,7 @@ This is the research-focused project in the portfolio. It explores how quantum-i
 | Java | React | SQL Server | ESP32 | Python | Git |
 | Spring Boot | JavaScript | Relational design | Sensor telemetry | Classification | GitHub |
 | Servlet / JSP | TypeScript | CRUD workflows | Real-time alerts | NFR analysis | VS Code |
-| MVC structure | HTML / CSS | Data modeling | Access control | Experiment evaluation | API testing |
+| MVC structure | HTML / CSS | Payment records | Access control | Experiment evaluation | API testing |
 
 </div>
 
@@ -250,6 +252,7 @@ This is the research-focused project in the portfolio. It explores how quantum-i
 ## 🎯 2026 Goals
 
 - Improve Java backend structure through MVC, Servlet/JSP, Spring Boot, and SQL-backed projects.
+- Strengthen commerce flows with authentication, payment callback handling, and invoice automation.
 - Strengthen dashboard UI quality for operational systems like car wash management and home safety.
 - Add clearer screenshots, setup guides, and demo flows to the four software project repositories.
 - Keep the Quantum-Inspired NFR Classification project positioned as an applied AI research project with reproducible experiments.
