@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20%7C%20Full-stack%20%7C%20.NET%20%7C%20IoT&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20%7C%20Java%20%7C%20React%20%7C%20IoT&descAlignY=58&descSize=17)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+JavaScript+%7C+Python;Full-stack+Systems" alt="Typing SVG" />
 
@@ -25,19 +25,18 @@ Name: Hung Le
 GitHub: Hungle2910
 Location: Vietnam
 
-Engineering Focus:
-  - Full-stack software engineering
-  - Java and ASP.NET Core backend development
-  - React and Next.js web applications
-  - SQL Server and data-driven systems
-  - Embedded and IoT foundations with C++
-  - Applied AI research for software requirements
+Current Portfolio:
+  - Java MVC commerce platform with SQL Server and payment integrations
+  - TypeScript / React operations workflow system
+  - Spring Boot and React IoT safety dashboard
+  - JavaScript productivity desktop application
+  - Python applied AI research prototype
 
-Portfolio Areas:
-  - Commerce and operations systems
-  - Productivity desktop application
-  - IoT safety platform
-  - Applied AI research
+Learning Direction:
+  - ASP.NET Core for complete production-style systems
+  - Next.js and React with a .NET backend
+  - C++ fundamentals for embedded systems and IoT
+  - .NET game development
 ```
 
 </td>
@@ -45,13 +44,13 @@ Portfolio Areas:
 
 <table>
 <tr>
-<td align="center"><strong>Backend</strong><br />Java, ASP.NET Core, Spring Boot</td>
+<td align="center"><strong>Backend</strong><br />Java MVC, Spring Boot, SQL-backed APIs</td>
 </tr>
 <tr>
-<td align="center"><strong>Frontend</strong><br />React, Next.js, workflow UI</td>
+<td align="center"><strong>Frontend</strong><br />React, TypeScript, JSP, workflow UI</td>
 </tr>
 <tr>
-<td align="center"><strong>Systems</strong><br />SQL Server, C++, IoT telemetry</td>
+<td align="center"><strong>Systems</strong><br />SQL Server, payments, IoT telemetry, applied AI</td>
 </tr>
 </table>
 
@@ -61,24 +60,36 @@ Portfolio Areas:
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Project Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet,cpp,spring,js,ts,react,nextjs,python,html,css,tailwind,nodejs,git,github,vscode,arduino" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,python,html,css,tailwind,nodejs,git,github,vscode,arduino" alt="Project tech stack icons" />
 
 <br /><br />
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B%20Foundations-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Servlet JSP](https://img.shields.io/badge/Servlet%20%2F%20JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React Dashboard](https://img.shields.io/badge/React%20Dashboard-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React TypeScript](https://img.shields.io/badge/React%20%2B%20TypeScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Payment Integration](https://img.shields.io/badge/Payment%20Integration-005BAA?style=for-the-badge&logo=visa&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT%20Systems-0F766E?style=for-the-badge&logo=espressif&logoColor=white)
 ![Applied AI](https://img.shields.io/badge/Applied%20AI-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+</div>
+
+### 2026 Learning Focus
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,nextjs" alt="2026 learning focus icons" />
+
+<br /><br />
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js%20Full--stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B%20for%20Embedded-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![.NET Game Dev](https://img.shields.io/badge/.NET%20Game%20Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
@@ -145,7 +156,7 @@ A Java MVC commerce platform for motorcycle showroom sales, checkout, appointmen
 React • TypeScript • Booking Workflow • Loyalty Program • Business Rules
 ```
 
-A smart operations platform for car wash booking, customer vehicles, wash sessions, and loyalty rewards.
+A TypeScript / React operations system for car wash booking, customer vehicles, wash sessions, and loyalty rewards.
 
 - Models the full business flow from customer registration to checkout.
 - Covers advance booking, service sessions, tiered loyalty, rewards, promotions, and notifications.
@@ -171,13 +182,13 @@ A full-stack IoT home safety platform combining smart lock control, sensor telem
 
 ---
 
-### ✅ To-Do List Desktop App
+### ✅ To-Do List App
 
 ```text
 JavaScript • Desktop App • Productivity • Task Workflow
 ```
 
-A desktop productivity app for personal task tracking and simple daily workflow management.
+A JavaScript productivity app for personal task tracking and simple daily workflow management.
 
 - Focuses on practical JavaScript app structure and usable task interactions.
 - Includes a compact productivity workflow around daily tasks and app state.
@@ -205,16 +216,18 @@ An applied AI research project exploring quantum-inspired ideas for non-function
 
 ---
 
-## 🧩 Developer Skills
+## 🧩 Technical Skills
 
 <div align="center">
 
-| Backend | Frontend / UI | Database | IoT / Systems | AI / Research | Tools |
-|---|---|---|---|---|---|
-| Java | React | SQL Server | ESP32 | Python | Git |
-| ASP.NET Core | Next.js | Relational design | C++ foundations | Classification | GitHub |
-| Spring Boot | TypeScript | CRUD workflows | Sensor telemetry | NFR analysis | VS Code |
-| Servlet / JSP | HTML / CSS | Payment records | Access control | Experiment evaluation | API testing |
+| Area | Current Project Skills | Next Growth |
+|---|---|---|
+| Backend | Java MVC, Servlet/JSP, Spring Boot, DAO/service layers | ASP.NET Core, C# service architecture |
+| Frontend | React, TypeScript, JavaScript, JSP, HTML/CSS, Tailwind CSS | Next.js full-stack application structure |
+| Database | SQL Server, relational schema design, CRUD workflows, payment records | stronger data modeling and API persistence patterns |
+| Systems | ESP32 telemetry, WebSocket updates, access control, payment callbacks | C++ foundations for embedded and IoT work |
+| AI / Research | Python classification workflows, requirements engineering analysis | reproducible experiments and clearer evaluation notes |
+| Tools | Git, GitHub, VS Code, API testing, deployment documentation | cleaner project automation and release workflows |
 
 </div>
 
