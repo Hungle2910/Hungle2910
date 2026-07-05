@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Backend%20%7C%20Full-stack%20%7C%20IoT%20%7C%20Applied%20AI&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20%7C%20Full-stack%20%7C%20.NET%20%7C%20IoT&descAlignY=58&descSize=17)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+JavaScript+%7C+Python;Full-stack+Systems" alt="Typing SVG" />
 
@@ -26,21 +26,18 @@ GitHub: Hungle2910
 Location: Vietnam
 
 Engineering Focus:
-  - Java backend and MVC web applications
-  - React dashboards and workflow-focused UI
-  - SQL Server and database-backed systems
-  - Commerce workflows with auth, payment, and email integrations
-  - IoT safety systems with real-time monitoring
+  - Full-stack software engineering
+  - Java and ASP.NET Core backend development
+  - React and Next.js web applications
+  - SQL Server and data-driven systems
+  - Embedded and IoT foundations with C++
   - Applied AI research for software requirements
 
-Active Portfolio:
-  Software Projects:
-    - Hung's To-Do List Desktop App
-    - MotoSales Commerce Platform
-    - Smart Automated Car Wash Management System
-    - Integrated Home Safety System V2
-  Research Project:
-    - Quantum-Inspired NFR Classification
+Portfolio Areas:
+  - Commerce and operations systems
+  - Productivity desktop application
+  - IoT safety platform
+  - Applied AI research
 ```
 
 </td>
@@ -48,13 +45,13 @@ Active Portfolio:
 
 <table>
 <tr>
-<td align="center"><strong>Backend</strong><br />Java, MVC, Spring Boot</td>
+<td align="center"><strong>Backend</strong><br />Java, ASP.NET Core, Spring Boot</td>
 </tr>
 <tr>
-<td align="center"><strong>Frontend</strong><br />React dashboards and workflow UI</td>
+<td align="center"><strong>Frontend</strong><br />React, Next.js, workflow UI</td>
 </tr>
 <tr>
-<td align="center"><strong>Systems</strong><br />SQL Server, payment flows, IoT telemetry</td>
+<td align="center"><strong>Systems</strong><br />SQL Server, C++, IoT telemetry</td>
 </tr>
 </table>
 
@@ -68,11 +65,14 @@ Active Portfolio:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,python,html,css,tailwind,nodejs,git,github,vscode,arduino" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,cpp,spring,js,ts,react,nextjs,python,html,css,tailwind,nodejs,git,github,vscode,arduino" alt="Tech stack icons" />
 
 <br /><br />
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B%20Foundations-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Servlet JSP](https://img.shields.io/badge/Servlet%20%2F%20JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React Dashboard](https://img.shields.io/badge/React%20Dashboard-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -121,114 +121,17 @@ Active Portfolio:
 
 ---
 
-## 💼 Software Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Hung's To-Do List Desktop App
-
-```text
-JavaScript | Desktop App | Productivity
-```
-
-A desktop productivity app for personal task tracking and simple daily workflow management.
-
-- Focuses on practical JavaScript app structure and usable task interactions.
-- Good space for UI polish, packaging, persistent state, and release notes.
-- Represents the desktop/application side of the portfolio.
-
-[![Repository](https://img.shields.io/badge/Repository-To--Do%20Desktop%20App-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/hungs-to-do-list-desktop-app)
-
-</td>
-<td width="50%">
-
-### MotoSales Commerce Platform
-
-```text
-Java | Servlet/JSP | MVC | SQL Server | VNPay
-```
-
-A Java MVC commerce platform for motorcycle showroom sales, checkout, appointment scheduling, and admin operations.
-
-- Implements product browsing, filtering, cart/session checkout, showroom appointment flow, and order history.
-- Integrates SQL Server, Google OAuth login, Gmail SMTP invoice emails, and VNPay sandbox payments.
-- Shows practical Java Servlet/JSP architecture with DAO, service layer, admin dashboard, and deployment notes.
-
-[![Repository](https://img.shields.io/badge/Repository-MotoSales%20Commerce%20Platform-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Motorcycle-selling)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Smart Automated Car Wash Management System
-
-```text
-React | TypeScript | Booking | Loyalty
-```
-
-A smart car wash management prototype for booking, customer vehicles, wash sessions, and loyalty rewards.
-
-- Models the full business flow from customer registration to checkout.
-- Includes advance booking rules, service sessions, tiered loyalty, rewards, promotions, and notifications.
-- Highlights requirements analysis, operational rules, and dashboard-style workflow design.
-
-[![Repository](https://img.shields.io/badge/Repository-Smart%20Car%20Wash%20System-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Smart-Automated-Car-Wash-Management-System)
-
-</td>
-<td width="50%">
-
-### Integrated Home Safety System V2
-
-```text
-Spring Boot | React | IoT | ESP32
-```
-
-A full-stack IoT home safety platform combining smart lock control, sensor telemetry, and real-time alerts.
-
-- Connects ESP32 hardware with a Spring Boot API and React dashboard.
-- Supports telemetry, alerts, fingerprint management, access logs, role-based control, and WebSocket updates.
-- Shows full-stack architecture across firmware, backend, database, and frontend UI.
-
-[![Repository](https://img.shields.io/badge/Repository-Home%20Safety%20System%20V2-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Integrated-Home-Safety-System-V2)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔬 Research Project
-
-### Quantum-Inspired NFR Classification
-
-```text
-Research | Python | Applied AI | Requirements Engineering
-```
-
-This is the research-focused project in the portfolio. It explores how quantum-inspired ideas can support non-functional requirement classification in software engineering.
-
-- Research direction: classify non-functional requirements more clearly for requirements analysis.
-- Technical base: Python experiments, classification workflows, dataset preparation, and evaluation thinking.
-- Portfolio role: separates academic research work from product-style software projects.
-
-[![Repository](https://img.shields.io/badge/Repository-Quantum%20NFR%20Classification-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification)
-
----
-
-## 🗺️ Project Map
+## 🗺️ Portfolio Overview
 
 <div align="center">
 
-| Area | Project | Main Stack | What It Demonstrates |
+| Area | Repository | Stack | Focus |
 |---|---|---|---|
-| Desktop productivity | To-Do List Desktop App | JavaScript | App state, task workflow, UI polish |
-| Commerce web system | MotoSales Commerce Platform | Java, Servlet/JSP, SQL Server | MVC backend, checkout, payments, admin operations |
-| Operations platform | Smart Automated Car Wash | React, TypeScript | Booking, loyalty, business rules, dashboard thinking |
-| IoT safety platform | Integrated Home Safety V2 | Spring Boot, React, ESP32 | Full-stack IoT, real-time alerts, access control |
-| Research / Applied AI | Quantum-Inspired NFR Classification | Python, Applied AI | Requirements engineering and classification experiments |
+| Desktop productivity | [To-Do List Desktop App](https://github.com/Hungle2910/hungs-to-do-list-desktop-app) | JavaScript | Task workflow, app state, desktop UI |
+| Commerce web system | [MotoSales Commerce Platform](https://github.com/Hungle2910/Motorcycle-selling) | Java, Servlet/JSP, SQL Server | MVC backend, checkout, payments, admin operations |
+| Operations platform | [Smart Automated Car Wash](https://github.com/Hungle2910/Smart-Automated-Car-Wash-Management-System) | React, TypeScript | Booking, loyalty, business rules, dashboard thinking |
+| IoT safety platform | [Integrated Home Safety V2](https://github.com/Hungle2910/Integrated-Home-Safety-System-V2) | Spring Boot, React, ESP32 | Full-stack IoT, real-time alerts, access control |
+| Research / Applied AI | [Quantum-Inspired NFR Classification](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification) | Python, Applied AI | Requirements engineering and classification experiments |
 
 </div>
 
@@ -241,9 +144,9 @@ This is the research-focused project in the portfolio. It explores how quantum-i
 | Backend | Frontend / UI | Database | IoT / Systems | AI / Research | Tools |
 |---|---|---|---|---|---|
 | Java | React | SQL Server | ESP32 | Python | Git |
-| Spring Boot | JavaScript | Relational design | Sensor telemetry | Classification | GitHub |
-| Servlet / JSP | TypeScript | CRUD workflows | Real-time alerts | NFR analysis | VS Code |
-| MVC structure | HTML / CSS | Payment records | Access control | Experiment evaluation | API testing |
+| ASP.NET Core | Next.js | Relational design | C++ foundations | Classification | GitHub |
+| Spring Boot | TypeScript | CRUD workflows | Sensor telemetry | NFR analysis | VS Code |
+| Servlet / JSP | HTML / CSS | Payment records | Access control | Experiment evaluation | API testing |
 
 </div>
 
@@ -251,12 +154,11 @@ This is the research-focused project in the portfolio. It explores how quantum-i
 
 ## 🎯 2026 Goals
 
-- Improve Java backend structure through MVC, Servlet/JSP, Spring Boot, and SQL-backed projects.
-- Strengthen commerce flows with authentication, payment callback handling, and invoice automation.
-- Strengthen dashboard UI quality for operational systems like car wash management and home safety.
-- Add clearer screenshots, setup guides, and demo flows to the four software project repositories.
-- Keep the Quantum-Inspired NFR Classification project positioned as an applied AI research project with reproducible experiments.
-- Build a consistent contribution history through useful commits, project improvements, and documentation inside each repo.
+- Become more fluent with ASP.NET Core by building a complete production-style project.
+- Build a game with .NET to strengthen C#, architecture, and interactive application development.
+- Use Next.js and React to build complete full-stack web applications with a .NET backend.
+- Practice C++ fundamentals and apply them to embedded systems and IoT-oriented projects.
+- Continue improving existing portfolio repositories through cleaner structure, demos, and practical documentation.
 
 ---
 
