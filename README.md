@@ -102,6 +102,18 @@ Active Portfolio:
 
 ---
 
+## 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
+
+</div>
+
+> The 3D calendar is generated from real GitHub contribution data by the workflow in this profile repository.
+
+---
+
 ## Contribution Snake
 
 <div align="center">
