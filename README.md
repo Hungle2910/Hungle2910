@@ -183,7 +183,7 @@ A desktop productivity app for personal task tracking and simple daily workflow 
 - Includes a compact productivity workflow around daily tasks and app state.
 - Represents the desktop/application side of the portfolio.
 
-[![Repository](https://img.shields.io/badge/Repository-To--Do%20Desktop%20App-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/hungs-to-do-list-desktop-app)
+[![Repository](https://img.shields.io/badge/Repository-To--Do%20List%20App-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/To-do-list-app)
 
 ---
 
