@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Backend%20%7C%20Full-stack%20%7C%20IoT%20%7C%20Applied%20AI&descAlignY=58&descSize=17)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Building+Java+and+database-backed+systems;Designing+React+dashboards+for+real+workflows;Exploring+IoT+home+safety+and+smart+operations;NCKH%3A+Quantum-Inspired+NFR+Classification" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Building+Java+and+database-backed+systems;Designing+React+dashboards+for+real+workflows;Exploring+IoT+home+safety+and+smart+operations;Research%3A+Quantum-Inspired+NFR+Classification" alt="Typing SVG" />
 
 ### Portfolio profile updated on July 5, 2026
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Profile Snapshot
+## 🧭 Profile Snapshot
 
 <table>
 <tr>
@@ -53,7 +53,7 @@ Active Portfolio:
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -66,29 +66,24 @@ Active Portfolio:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React Dashboard](https://img.shields.io/badge/React%20Dashboard-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![IoT](https://img.shields.io/badge/IoT%20Systems-0F766E?style=for-the-badge&logo=espressif&logoColor=white)
-![Research](https://img.shields.io/badge/NCKH-Applied%20AI-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Applied AI](https://img.shields.io/badge/Applied%20AI-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <div align="center">
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hungle2910&theme=github_dark" alt="GitHub stats summary" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hungle2910&theme=github_dark" alt="Repositories per language" />
 
-<br />
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hungle2910&theme=github_dark" alt="Most committed languages" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Hungle2910&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-
 </div>
 
 ---
 
-## Activity & Effects
+## 📈 Activity & Highlights
 
 <div align="center">
 
@@ -102,19 +97,7 @@ Active Portfolio:
 
 ---
 
-## 3D Contribution Calendar
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
-
-</div>
-
-> The 3D calendar is generated from real GitHub contribution data by the workflow in this profile repository.
-
----
-
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -126,7 +109,7 @@ Active Portfolio:
 
 ---
 
-## Software Projects
+## 💼 Software Projects
 
 <table>
 <tr>
@@ -205,12 +188,12 @@ A full-stack IoT home safety platform combining smart lock control, sensor telem
 
 ---
 
-## Research Project
+## 🔬 Research Project
 
 ### Quantum-Inspired NFR Classification
 
 ```text
-NCKH | Python | Applied AI | Requirements Engineering
+Research | Python | Applied AI | Requirements Engineering
 ```
 
 This is the research-focused project in the portfolio. It explores how quantum-inspired ideas can support non-functional requirement classification in software engineering.
@@ -223,7 +206,7 @@ This is the research-focused project in the portfolio. It explores how quantum-i
 
 ---
 
-## Project Map
+## 🗺️ Project Map
 
 <div align="center">
 
@@ -233,13 +216,13 @@ This is the research-focused project in the portfolio. It explores how quantum-i
 | Business web system | Motorcycle Sales Appointment System | Java, Servlet/JSP, SQL Server | MVC backend, database design, appointments |
 | Operations platform | Smart Automated Car Wash | React, TypeScript | Booking, loyalty, business rules, dashboard thinking |
 | IoT safety platform | Integrated Home Safety V2 | Spring Boot, React, ESP32 | Full-stack IoT, real-time alerts, access control |
-| Research / NCKH | Quantum-Inspired NFR Classification | Python, Applied AI | Requirements engineering and classification experiments |
+| Research / Applied AI | Quantum-Inspired NFR Classification | Python, Applied AI | Requirements engineering and classification experiments |
 
 </div>
 
 ---
 
-## Developer Skills
+## 🧩 Developer Skills
 
 <div align="center">
 
@@ -254,17 +237,17 @@ This is the research-focused project in the portfolio. It explores how quantum-i
 
 ---
 
-## 2026 Goals
+## 🎯 2026 Goals
 
 - Improve Java backend structure through MVC, Servlet/JSP, Spring Boot, and SQL-backed projects.
 - Strengthen dashboard UI quality for operational systems like car wash management and home safety.
 - Add clearer screenshots, setup guides, and demo flows to the four software project repositories.
-- Keep the Quantum-Inspired NFR Classification project positioned as NCKH with reproducible experiments.
+- Keep the Quantum-Inspired NFR Classification project positioned as an applied AI research project with reproducible experiments.
 - Build a consistent contribution history through useful commits, project improvements, and documentation inside each repo.
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
