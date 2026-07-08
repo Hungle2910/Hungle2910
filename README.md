@@ -15,9 +15,8 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>🧭 About Me / Giới thiệu</h3>
-      <p>A Software Engineering student passionate about backend services, cloud integration, and IoT automation. Focused on learning clean coding standards and modern system architectures, with a goal of designing scalable, secure solutions that solve real-world problems for users and businesses.</p>
-      <p><i>Tôi là sinh viên ngành Kỹ thuật Phần mềm đam mê phát triển backend, tích hợp điện toán đám mây và tự động hóa IoT. Định hướng rèn luyện tiêu chuẩn code sạch và các kiến trúc hệ thống hiện đại, hướng tới xây dựng các giải pháp tối ưu, bảo mật nhằm giải quyết trực tiếp bài toán thực tế của người dùng và doanh nghiệp.</i></p>
+      <h3>🧭 About Me</h3>
+      <p>A Software Engineering student specializing in backend architectures, cloud integration, and IoT automation. Committed to writing clean, maintainable code and learning system design principles to build highly reliable, scalable enterprise solutions that solve complex business and user needs.</p>
     </td>
     <td width="45%" valign="top">
       <h3>⚡ Quick Snapshot</h3>
