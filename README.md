@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20%7C%20Java%20%7C%20React%20%7C%20IoT&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20%7C%20Java%20%7C%20React%20%7C%20C%23&descAlignY=58&descSize=17)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+.NET;React+%7C+Next.js+%7C+TypeScript;IoT+%26+Systems+Automation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+.NET;React+%7C+Next.js+%7C+TypeScript;C%23+%26+.NET+Developer" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hungle2910-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hungle2910)
 [![Gmail](https://img.shields.io/badge/Gmail-lhung29100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhung29100@gmail.com)
