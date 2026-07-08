@@ -172,11 +172,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hungle2910&theme=github-dark&hide_border=true&area=true&radius=8&custom_title=Le%20Doan%20Gia%20Hung%27s%20Contribution%20Graph" alt="Contribution graph" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hungle2910&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
-</div>
 
 ### 🐍 Contribution Activity Snake
 <div align="center">
