@@ -33,18 +33,18 @@ Current Core Stack:
 
 ### Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,python,html,css,tailwind,postgres,mysql,arduino" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,ts,react,tailwind,postgres,mysql,arduino,python" alt="Tech Stack Icons" />
 </div>
 
 <br />
 
 <div align="center">
   
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![IoT](https://img.shields.io/badge/IoT%20Systems-0F766E?style=for-the-badge&logo=espressif&logoColor=white)
+  ![Java & Spring Boot](https://img.shields.io/badge/Java%20%2F%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![C# & .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![React & TS](https://img.shields.io/badge/React%20%2F%20TypeScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Databases](https://img.shields.io/badge/SQL%20Server%20%2F%20PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![IoT Systems](https://img.shields.io/badge/IoT%20Systems-0F766E?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
 
@@ -52,7 +52,7 @@ Current Core Stack:
 Focusing on Cloud Engineering, robust System Design patterns, and DevOps automation to build high-availability architectures.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,cs,dotnet" alt="Learning Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" alt="Learning Stack Icons" />
 </div>
 
 <br />
