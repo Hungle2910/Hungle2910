@@ -16,15 +16,15 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🧭 About Me / Giới thiệu</h3>
-      <p>A Software Engineering student dedicated to bridging the gap between hardware automation and intelligent software solutions. Highly interested in backend design, C# Model Context Protocol (MCP) implementations, and full-stack IoT architectures. Focused on applying Clean Architecture principles to construct reliable systems that optimize business operations and enhance user experience.</p>
-      <p><i>Tôi là sinh viên ngành Kỹ thuật Phần mềm, định hướng phát triển sự nghiệp tại điểm giao thoa giữa tự động hóa phần cứng và các giải pháp phần mềm thông minh. Tập trung nghiên cứu phát triển backend, ứng dụng giao thức Model Context Protocol (MCP) trong C#, và kiến trúc IoT full-stack. Tôi luôn hướng tới việc áp dụng các nguyên lý Clean Architecture để xây dựng các hệ thống tối ưu hóa vận hành cho doanh nghiệp và nâng cao trải nghiệm người dùng.</i></p>
+      <p>A Software Engineering student passionate about backend services, cloud integration, and IoT automation. Focused on learning clean coding standards and modern system architectures, with a goal of designing scalable, secure solutions that solve real-world problems for users and businesses.</p>
+      <p><i>Tôi là sinh viên ngành Kỹ thuật Phần mềm đam mê phát triển backend, tích hợp điện toán đám mây và tự động hóa IoT. Định hướng rèn luyện tiêu chuẩn code sạch và các kiến trúc hệ thống hiện đại, hướng tới xây dựng các giải pháp tối ưu, bảo mật nhằm giải quyết trực tiếp bài toán thực tế của người dùng và doanh nghiệp.</i></p>
     </td>
     <td width="45%" valign="top">
       <h3>⚡ Quick Snapshot</h3>
       <ul>
         <li><strong>Identity:</strong> Le Doan Gia Hung</li>
         <li><strong>Major:</strong> Software Engineering</li>
-        <li><strong>Focus Areas:</strong> IoT Automation & C# MCP Integrations</li>
+        <li><strong>Focus Areas:</strong> IoT, Cloud & Backend Systems</li>
         <li><strong>Core Stack:</strong> Java/Spring, C#/.NET, React/Next.js, SQL</li>
         <li><strong>IoT Stack:</strong> ESP32, C++, Blynk Cloud, WebSockets</li>
       </ul>
