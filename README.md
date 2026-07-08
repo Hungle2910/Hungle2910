@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20%7C%20Java%20%7C%20React%20%7C%20IoT&descAlignY=58&descSize=17)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+JavaScript+%7C+Python;Full-stack+Systems;IoT+%26+Automation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+React+%7C+.NET;Full-stack+Systems;IoT+%26+Automation+Enthusiast" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hungle2910-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hungle2910)
 [![Gmail](https://img.shields.io/badge/Gmail-lhung29100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhung29100@gmail.com)
@@ -14,7 +14,7 @@
 
 ## 🧭 Profile Snapshot
 
-A detail-oriented Software Engineer passionate about building scalable backends, interactive frontends, and smart IoT automation systems. 
+A detail-oriented Software Engineer passionate about building scalable backends, interactive frontends, and smart IoT automation systems. Dedicated to writing clean, maintainable code and exploring enterprise-grade system designs.
 
 ```yaml
 Identity: Hung Le
@@ -49,17 +49,20 @@ Current Core Stack:
 </div>
 
 ### Next Up (2026 Learning Focus)
+Focusing on Cloud Engineering, robust System Design patterns, and DevOps automation to build high-availability architectures.
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,nextjs" alt="Learning Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,cs,dotnet" alt="Learning Stack Icons" />
 </div>
 
 <br />
 
 <div align="center">
 
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js%20Full--stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B%20for%20Embedded-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker%20Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![System Design](https://img.shields.io/badge/System%20Design%20%26%20Architecture-0F766E?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/DevOps%20%26%20CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -69,8 +72,8 @@ Current Core Stack:
 
 ### 🚘 [Smart Automated Car Wash Management System](https://github.com/harry-leon/Smart-Automated-Car-Wash-Management-System)
 *React • TypeScript • Booking Workflow • Loyalty Program • Business Rules*
-* **Role**: Collaborative Developer & System Designer (Co-developer).
-* **Key Features**: Designed booking flows, car wash session states, loyalty reward models, notifications, and interactive management dashboards.
+* **Role**: Collaborative Full-stack Developer & UI/UX Architect.
+* **Key Features**: Engineered dynamic booking flows, real-time car wash session states, tiered loyalty/promotion logic, automated notifications, and interactive management dashboards.
 * **Skills**: State management, component routing, UI/UX consistency, business logic mapping.
 * **Stack**: React, TypeScript, CSS, Tailwind CSS.
 
@@ -80,8 +83,8 @@ Current Core Stack:
 
 ### 🏫 [Education Center Management System](https://github.com/Hungle2910/education-center-management-system)
 *C# • .NET • Entity Framework • Database Management • Administration Workflow*
-* **Role**: Sole Developer.
-* **Key Features**: System for managing educational courses, schedule tracking, students, tutor assignments, and center administrative workflows.
+* **Role**: Creator & Sole Developer.
+* **Key Features**: Designed a comprehensive system for managing educational courses, schedule tracking, students, tutor assignments, and center administrative workflows.
 * **Skills**: Object-oriented design, database persistence patterns, desktop/web application structure in .NET.
 * **Stack**: C#, .NET, SQL database.
 
@@ -91,8 +94,8 @@ Current Core Stack:
 
 ### 🏍️ [MotoSales Commerce Platform](https://github.com/Hungle2910/Motorcycle-selling)
 *Java • Servlet/JSP • MVC • SQL Server • VNPay • Google OAuth • Gmail SMTP*
-* **Role**: Sole Developer.
-* **Key Features**: Product filtering, showroom booking, VNPay sandbox integrations, secure Google OAuth log-in, and automated Gmail receipt systems.
+* **Role**: Creator & Sole Developer.
+* **Key Features**: Built a complete e-commerce transaction engine with product filtering, showroom booking, VNPay sandbox integrations, secure Google OAuth log-in, and automated Gmail receipt systems.
 * **Skills**: MVC architecture design, secure payment integrations, session and cart management, database DAO design.
 * **Stack**: Java, Servlet, JSP, SQL Server, MVC Architecture.
 
@@ -102,8 +105,8 @@ Current Core Stack:
 
 ### 🏠 [Integrated Home Safety System V2](https://github.com/Hungle2910/integrated-home-safety-v2)
 *Spring Boot • React • IoT • ESP32 • WebSocket • Access Control*
-* **Role**: Sole Developer.
-* **Key Features**: Real-time smart lock controls, sensor telemetry monitoring, live web alerts, fingerprint/access logs, and role-based permissions.
+* **Role**: Creator & Sole Developer.
+* **Key Features**: Designed real-time smart lock controls, sensor telemetry monitoring, live web alerts, fingerprint/access logs, and role-based permissions.
 * **Skills**: Full-stack integration, WebSocket communication, ESP32 telemetry parsing, security-oriented access control.
 * **Stack**: Spring Boot, React, ESP32, WebSockets.
 
@@ -113,7 +116,7 @@ Current Core Stack:
 
 ### ✅ [To-Do List App](https://github.com/Hungle2910/To-do-list-app)
 *JavaScript • Desktop App • Productivity • Task Workflow*
-* **Role**: Sole Developer.
+* **Role**: Creator & Sole Developer.
 * **Key Features**: Desktop productivity application for personal task tracking, scheduling, and simple daily workflow management.
 * **Skills**: Core JavaScript DOM manipulation, local data storage, intuitive event handling.
 * **Stack**: JavaScript, HTML/CSS, Desktop Wrapper.
@@ -126,8 +129,8 @@ Current Core Stack:
 
 ### 🔬 [Quantum-Inspired NFR Classification](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification)
 *Python • Applied AI • Requirements Engineering • Classification*
-* **Role**: Applied AI Researcher.
-* **Key Features**: Experimental AI model using quantum-inspired logic to classify non-functional requirements (NFRs) in software engineering.
+* **Role**: Lead AI Researcher.
+* **Key Features**: Designed and evaluated an experimental AI model using quantum-inspired logic to classify non-functional requirements (NFRs) in software engineering.
 * **Skills**: Academic research, dataset preparation, classification workflows, and model evaluation metrics.
 * **Stack**: Python, Scikit-learn, Machine Learning.
 
