@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=LE%20DOAN%20GIA%20HUNG&fontColor=ffffff&fontSize=42&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20%7C%20Java%20%7C%20React%20%7C%20C%23%20%7C%20IoT&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=LE%20DOAN%20GIA%20HUNG&fontColor=ffffff&fontSize=42&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Java%20%7C%20C%23%20%7C%20React%20%7C%20IoT&descAlignY=58&descSize=17)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+.NET;React+%7C+Next.js+%7C+TypeScript;C%23+%26+.NET+Developer;IoT+%26+Smart+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Java+%7C+Spring+Boot;React+%7C+Next.js+%7C+TypeScript;C%23+%26+.NET;IoT+%26+Smart+Systems" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hungle2910-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hungle2910)
 [![Gmail](https://img.shields.io/badge/Gmail-lhung29100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhung29100@gmail.com)
@@ -16,14 +16,14 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🧭 About Me / Giới thiệu</h3>
-      <p>A detail-oriented Software Engineer passionate about building scalable backends, interactive frontends, and smart IoT automation systems. Dedicated to writing clean, maintainable code and exploring enterprise-grade system designs.</p>
-      <p><i>Tôi là một kỹ sư phần mềm tập trung vào chi tiết, đam mê xây dựng hệ thống backend hiệu năng cao, giao diện frontend trực quan và các giải pháp tự động hóa IoT thông minh. Định hướng viết code sạch, dễ bảo trì và nghiên cứu kiến trúc hệ thống doanh nghiệp.</i></p>
+      <p>A Software Engineering student passionate about learning backend development, building responsive web applications, and experimenting with smart IoT systems. Dedicated to practicing clean code and exploring modern architectures.</p>
+      <p><i>Tôi là một sinh viên ngành Kỹ thuật Phần mềm đam mê học hỏi lập trình backend, xây dựng ứng dụng web trực quan và thử nghiệm hệ thống IoT thông minh. Định hướng rèn luyện viết code sạch và tìm hiểu các kiến trúc phần mềm hiện đại.</i></p>
     </td>
     <td width="45%" valign="top">
       <h3>⚡ Quick Snapshot</h3>
       <ul>
         <li><strong>Identity:</strong> Le Doan Gia Hung</li>
-        <li><strong>Role:</strong> Full-stack Developer & Systems Builder</li>
+        <li><strong>Role:</strong> Software Engineering Student</li>
         <li><strong>Location:</strong> Vietnam 🇻🇳</li>
         <li><strong>Core Stack:</strong> Java/Spring, C#/.NET, React/Next.js, SQL</li>
         <li><strong>IoT Stack:</strong> ESP32, C++, Blynk Cloud, WebSockets</li>
