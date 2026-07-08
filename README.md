@@ -99,7 +99,7 @@
 ## 🏆 Featured Projects / Dự án tiêu biểu
 
 ### 🚘 [Smart Automated Car Wash Management System](https://github.com/harry-leon/Smart-Automated-Car-Wash-Management-System)
-*Developer*
+*Collaborative Developer (Frontend & Business Logic)*
 *   **Description:** An enterprise-grade booking and management dashboard for automated car wash lines.
 *   **Key Deliverables:** Engineered dynamic booking flows, real-time car wash session states, tiered loyalty/promotion logic, automated notifications, and interactive management dashboards.
 *   **Core Stack:** React, TypeScript, Tailwind CSS, State Management.
@@ -108,7 +108,7 @@
 ---
 
 ### 🏫 [Education Center Management System](https://github.com/Hungle2910/education-center-management-system)
-*Developer*
+*Full-stack Developer (.NET & Next.js)*
 *   **Description:** A comprehensive CRM/MIS designed for educational institutions and language centers.
 *   **Key Deliverables:** Implemented a **C# MCP Server (Model Context Protocol)** allowing AI agents to query/manage the database via stdio tools. Built academic scheduling, trial session profiling, tuition invoicing with dynamic VietQR generation, and auto-settlement hooks.
 *   **Core Stack:** C#, .NET 8.0/9.0, Entity Framework Core, SQL Server, Next.js.
@@ -117,7 +117,7 @@
 ---
 
 ### 🏍️ [MotoSales Commerce Platform](https://github.com/Hungle2910/Motorcycle-selling)
-*Developer*
+*Backend Developer (Java MVC & Payments)*
 *   **Description:** A Java MVC showroom e-commerce platform for motorcycles and accessories.
 *   **Key Deliverables:** Built a complete transaction engine featuring dynamic catalog filtering, showroom appointment scheduling, Google OAuth 2.0 login, secure VNPay payment gateway integration, and automated HTML invoice mailing.
 *   **Core Stack:** Java Core 17, Servlet/JSP MVC, SQL Server, VNPay API, Gmail SMTP.
@@ -126,7 +126,7 @@
 ---
 
 ### 🏠 [Integrated Home Safety System V2](https://github.com/Hungle2910/integrated-home-safety-v2)
-*Developer*
+*IoT & Full-stack Developer (Spring Boot, React & ESP32)*
 *   **Description:** A full-stack IoT smart lock and environmental safety platform.
 *   **Key Deliverables:** Integrated ESP32 hardware telemetry (gas, fire, intruder) with a Spring Boot backend and React dashboard. Developed remote lock control, fingerprint slot enrollment via Blynk, real-time WebSocket alert pushes, and a Three.js 3D house visualizer.
 *   **Core Stack:** Spring Boot 3.2, React 19, ESP32 (C++), Blynk API, WebSockets, Three.js.
@@ -135,7 +135,7 @@
 ---
 
 ### ✅ [To-Do List App](https://github.com/Hungle2910/To-do-list-app)
-*Developer*
+*Desktop Developer (Electron & API Integration)*
 *   **Description:** A playful desktop-focused daily planning app featuring a pixel-art printer interface and Google Calendar read/write synchronization.
 *   **Core Stack:** Electron, JavaScript ES Modules, Google Calendar API.
 *   <a href="https://github.com/Hungle2910/To-do-list-app"><b>Explore Project Repo ➔</b></a>
@@ -145,7 +145,7 @@
 ## 🔬 Research / Nghiên cứu khoa học
 
 ### 🔬 [Quantum-Inspired NFR Classification](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification)
-*Researcher*
+*Researcher (Machine Learning & NFR Classification)*
 *   **Description:** An experimental machine learning application using quantum-inspired logic gates to classify non-functional requirements (NFRs).
 *   **Core Stack:** Python, Scikit-learn, Applied Machine Learning.
 *   <a href="https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification"><b>Explore Project Repo ➔</b></a>
