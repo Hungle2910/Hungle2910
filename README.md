@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=HUNG%20LE&fontColor=ffffff&fontSize=54&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20%7C%20Java%20%7C%20React%20%7C%20C%23%20%7C%20IoT&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=LE%20DOAN%20GIA%20HUNG&fontColor=ffffff&fontSize=42&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20%7C%20Java%20%7C%20React%20%7C%20C%23%20%7C%20IoT&descAlignY=58&descSize=17)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+.NET;React+%7C+Next.js+%7C+TypeScript;C%23+%26+.NET+Developer;IoT+%26+Smart+Systems" alt="Typing SVG" />
 
@@ -22,7 +22,7 @@
     <td width="45%" valign="top">
       <h3>⚡ Quick Snapshot</h3>
       <ul>
-        <li><strong>Identity:</strong> Hung Le</li>
+        <li><strong>Identity:</strong> Le Doan Gia Hung</li>
         <li><strong>Role:</strong> Full-stack Developer & Systems Builder</li>
         <li><strong>Location:</strong> Vietnam 🇻🇳</li>
         <li><strong>Core Stack:</strong> Java/Spring, C#/.NET, React/Next.js, SQL</li>
@@ -169,7 +169,7 @@
 
 ### Contribution Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hungle2910&theme=github-dark&hide_border=true&area=true&radius=8&custom_title=Hung%20Le%27s%20Contribution%20Graph" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hungle2910&theme=github-dark&hide_border=true&area=true&radius=8&custom_title=Le%20Doan%20Gia%20Hung%27s%20Contribution%20Graph" alt="Contribution graph" />
 </div>
 
 <br />
