@@ -22,7 +22,7 @@ Role: Full-stack Developer & Systems Builder
 Base: Vietnam
 
 Current Core Stack:
-  - Backend: Java (MVC, Spring Boot, Servlet/JSP)
+  - Backend: Java (MVC, Spring Boot, Servlet/JSP), C# (.NET)
   - Frontend: React, TypeScript, Tailwind CSS
   - Systems: SQL Server, PostgreSQL, ESP32 Telemetry, IoT Access Control
 ```
@@ -65,21 +65,35 @@ Current Core Stack:
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Projects
 
 ### 🚘 [Smart Automated Car Wash Management System](https://github.com/harry-leon/Smart-Automated-Car-Wash-Management-System)
 *React • TypeScript • Booking Workflow • Loyalty Program • Business Rules*
-* **Role**: Collaborative Developer / System Designer.
+* **Role**: Collaborative Developer & System Designer (Co-developer).
 * **Key Features**: Designed booking flows, car wash session states, loyalty reward models, notifications, and interactive management dashboards.
+* **Skills**: State management, component routing, UI/UX consistency, business logic mapping.
 * **Stack**: React, TypeScript, CSS, Tailwind CSS.
 
 [![Repository](https://img.shields.io/badge/Collaborator--Repo-Smart%20Car%20Wash%20System-181717?style=for-the-badge&logo=github)](https://github.com/harry-leon/Smart-Automated-Car-Wash-Management-System)
 
 ---
 
+### 🏫 [Education Center Management System](https://github.com/Hungle2910/education-center-management-system)
+*C# • .NET • Entity Framework • Database Management • Administration Workflow*
+* **Role**: Sole Developer.
+* **Key Features**: System for managing educational courses, schedule tracking, students, tutor assignments, and center administrative workflows.
+* **Skills**: Object-oriented design, database persistence patterns, desktop/web application structure in .NET.
+* **Stack**: C#, .NET, SQL database.
+
+[![Repository](https://img.shields.io/badge/Repository-Education%20Center%20Management-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/education-center-management-system)
+
+---
+
 ### 🏍️ [MotoSales Commerce Platform](https://github.com/Hungle2910/Motorcycle-selling)
 *Java • Servlet/JSP • MVC • SQL Server • VNPay • Google OAuth • Gmail SMTP*
+* **Role**: Sole Developer.
 * **Key Features**: Product filtering, showroom booking, VNPay sandbox integrations, secure Google OAuth log-in, and automated Gmail receipt systems.
+* **Skills**: MVC architecture design, secure payment integrations, session and cart management, database DAO design.
 * **Stack**: Java, Servlet, JSP, SQL Server, MVC Architecture.
 
 [![Repository](https://img.shields.io/badge/Repository-MotoSales%20Platform-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Motorcycle-selling)
@@ -88,17 +102,34 @@ Current Core Stack:
 
 ### 🏠 [Integrated Home Safety System V2](https://github.com/Hungle2910/integrated-home-safety-v2)
 *Spring Boot • React • IoT • ESP32 • WebSocket • Access Control*
+* **Role**: Sole Developer.
 * **Key Features**: Real-time smart lock controls, sensor telemetry monitoring, live web alerts, fingerprint/access logs, and role-based permissions.
+* **Skills**: Full-stack integration, WebSocket communication, ESP32 telemetry parsing, security-oriented access control.
 * **Stack**: Spring Boot, React, ESP32, WebSockets.
 
 [![Repository](https://img.shields.io/badge/Repository-Home%20Safety%20System-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/integrated-home-safety-v2)
 
 ---
 
+### ✅ [To-Do List App](https://github.com/Hungle2910/To-do-list-app)
+*JavaScript • Desktop App • Productivity • Task Workflow*
+* **Role**: Sole Developer.
+* **Key Features**: Desktop productivity application for personal task tracking, scheduling, and simple daily workflow management.
+* **Skills**: Core JavaScript DOM manipulation, local data storage, intuitive event handling.
+* **Stack**: JavaScript, HTML/CSS, Desktop Wrapper.
+
+[![Repository](https://img.shields.io/badge/Repository-To--Do%20List%20App-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/To-do-list-app)
+
+---
+
+## 🔬 Research
+
 ### 🔬 [Quantum-Inspired NFR Classification](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification)
 *Python • Applied AI • Requirements Engineering • Classification*
-* **Key Features**: Experimental AI model using quantum-inspired logic to classify non-functional requirements in software design.
-* **Stack**: Python, machine learning workflows.
+* **Role**: Applied AI Researcher.
+* **Key Features**: Experimental AI model using quantum-inspired logic to classify non-functional requirements (NFRs) in software engineering.
+* **Skills**: Academic research, dataset preparation, classification workflows, and model evaluation metrics.
+* **Stack**: Python, Scikit-learn, Machine Learning.
 
 [![Repository](https://img.shields.io/badge/Repository-Quantum%20NFR%20Classification-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification)
 
