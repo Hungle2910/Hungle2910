@@ -161,10 +161,12 @@
         <img height="195" src="https://github-stats-extended.vercel.app/api?username=Hungle2910&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats summary" />
       </td>
       <td>
-        <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hungle2910&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Repositories per language" />
+        <img height="195" src="https://streak-stats.demolab.com/?user=Hungle2910&theme=tokyonight" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
+  <br />
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hungle2910&theme=tokyonight&hide_langs_below=1" alt="Most Used Languages" />
 </div>
 
 ### Contribution Activity Graph
