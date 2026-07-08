@@ -142,6 +142,8 @@
 
 ---
 
+## 🔬 Research / Nghiên cứu khoa học
+
 ### 🔬 [Quantum-Inspired NFR Classification](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification)
 *Lead AI Researcher*
 *   **Description:** An experimental machine learning application using quantum-inspired logic gates to classify non-functional requirements (NFRs).
