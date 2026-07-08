@@ -16,8 +16,8 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🧭 About Me / Giới thiệu</h3>
-      <p>A Software Engineering student passionate about learning backend development, building responsive web applications, and experimenting with smart IoT systems. Dedicated to practicing clean code and exploring modern architectures.</p>
-      <p><i>Tôi là một sinh viên ngành Kỹ thuật Phần mềm đam mê học hỏi lập trình backend, xây dựng ứng dụng web trực quan và thử nghiệm hệ thống IoT thông minh. Định hướng rèn luyện viết code sạch và tìm hiểu các kiến trúc phần mềm hiện đại.</i></p>
+      <p>A Software Engineering student with a deep passion for IoT automation and C# MCP integration (having built active smart lock telemetry and custom CRM LLM tools). Dedicated to learning clean architectures and distributed patterns, with the ultimate goal of designing robust systems that solve real-world problems for users and businesses.</p>
+      <p><i>Tôi là sinh viên ngành Kỹ thuật Phần mềm có niềm đam mê lớn với tự động hóa IoT và tích hợp C# MCP (đã tự phát triển hệ thống khóa cửa thông minh và tích hợp AI agent vào dữ liệu lớp học). Tôi luôn nỗ lực thực hành viết code sạch và nghiên cứu kiến trúc hệ thống hiện đại, hướng tới mục tiêu thiết kế các giải pháp phần mềm tối ưu để giải quyết bài toán thực tế của người dùng và doanh nghiệp.</i></p>
     </td>
     <td width="45%" valign="top">
       <h3>⚡ Quick Snapshot</h3>
