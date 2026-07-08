@@ -82,11 +82,11 @@ Focusing on Cloud Engineering, robust System Design patterns, and DevOps automat
 ---
 
 ### 🏫 [Education Center Management System](https://github.com/Hungle2910/education-center-management-system)
-*C# • .NET • Entity Framework • Database Management • Administration Workflow*
+*C# • .NET • EF Core • MCP Server Protocol • JSON-RPC • SQL Server*
 * **Role**: Creator & Sole Developer.
-* **Key Features**: Designed a comprehensive system for managing educational courses, schedule tracking, students, tutor assignments, and center administrative workflows.
-* **Skills**: Object-oriented design, database persistence patterns, desktop/web application structure in .NET.
-* **Stack**: C#, .NET, SQL database.
+* **Key Features**: Designed a comprehensive CRM/MIS system for managing educational courses, student progress, tutor assignments, and dynamic scheduling. Implemented an **MCP Server (Model Context Protocol)** in C# allowing AI agents to query/manage the database via stdio tools.
+* **Skills**: Clean Architecture, API integration, JSON-RPC protocol implementation, DB persistence patterns.
+* **Stack**: C#, .NET 10.0, SQL Server, Entity Framework Core.
 
 [![Repository](https://img.shields.io/badge/Repository-Education%20Center%20Management-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/education-center-management-system)
 
@@ -120,8 +120,6 @@ Focusing on Cloud Engineering, robust System Design patterns, and DevOps automat
 * **Key Features**: Desktop productivity application for personal task tracking, scheduling, and simple daily workflow management.
 * **Skills**: Core JavaScript DOM manipulation, local data storage, intuitive event handling.
 * **Stack**: JavaScript, HTML/CSS, Desktop Wrapper.
-
-[![Repository](https://img.shields.io/badge/Repository-To--Do%20List%20App-181717?style=for-the-badge&logo=github)](https://github.com/Hungle2910/To-do-list-app)
 
 ---
 
