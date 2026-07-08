@@ -158,10 +158,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hungle2910&theme=github_dark" alt="GitHub stats summary" />
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Hungle2910&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats summary" />
       </td>
       <td>
-        <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hungle2910&theme=github_dark" alt="Repositories per language" />
+        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungle2910&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Repositories per language" />
       </td>
     </tr>
   </table>
