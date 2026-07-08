@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=LE%20DOAN%20GIA%20HUNG&fontColor=ffffff&fontSize=42&fontAlignY=39&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Java%20%7C%20C%23%20%7C%20React%20%7C%20IoT&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=245&color=0:111827,42:0f766e,76:2563eb,100:22c55e&text=LE%20DOAN%20GIA%20HUNG&fontColor=ffffff&fontSize=42&fontAlignY=39&animation=fadeIn&desc=Software%20Engineer%20%7C%20Java%20%7C%20C%23%20%7C%20React%20%7C%20IoT&descAlignY=58&descSize=17)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Java+%7C+Spring+Boot;React+%7C+Next.js+%7C+TypeScript;C%23+%26+.NET;IoT+%26+Smart+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+Spring+Boot;React+%7C+Next.js+%7C+TypeScript;C%23+%26+.NET;IoT+%26+Smart+Systems" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hungle2910-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hungle2910)
 [![Gmail](https://img.shields.io/badge/Gmail-lhung29100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhung29100@gmail.com)
@@ -16,7 +16,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🧭 About Me</h3>
-      <p>A Software Engineering student specializing in backend architectures, cloud integration, and IoT automation. Committed to writing clean, maintainable code and learning system design principles to build highly reliable, scalable enterprise solutions that solve complex business and user needs.</p>
+      <p>A Software Engineer specializing in backend architectures, cloud integration, and IoT automation. Committed to writing clean, maintainable code and learning system design principles to build highly reliable, scalable enterprise solutions that solve complex business and user needs.</p>
     </td>
     <td width="45%" valign="top">
       <h3>⚡ Quick Snapshot</h3>
