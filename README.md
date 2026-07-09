@@ -143,11 +143,11 @@
 
 ## 🔬 Research / Nghiên cứu khoa học
 
-### 🔬 [Quantum-Inspired NFR Classification](https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification)
+### 🔬 [Quantum-Inspired NFR Classification](https://github.com/Lancelot-sys25/Quantum-Inspired-NFR-Classification)
 *Researcher (Machine Learning & NFR Classification)*
 *   **Description:** An experimental machine learning application using quantum-inspired logic gates to classify non-functional requirements (NFRs).
 *   **Core Stack:** Python, Scikit-learn, Applied Machine Learning.
-*   <a href="https://github.com/Hungle2910/Quantum-Inspired-NFR-Classification"><b>Explore Project Repo ➔</b></a>
+*   <a href="https://github.com/Lancelot-sys25/Quantum-Inspired-NFR-Classification"><b>Explore Project Repo ➔</b></a>
 
 ---
 
