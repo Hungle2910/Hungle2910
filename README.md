@@ -35,7 +35,6 @@
 
 ## 🛠️ Tech Stack & Toolkit
 
-### 💻 Core Development Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,ts,react,nextjs,tailwind,postgres,mysql,arduino,python,html,css" alt="Tech Stack Icons" />
 </div>
