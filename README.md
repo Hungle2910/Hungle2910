@@ -97,12 +97,12 @@
 
 ## 🏆 Featured Projects / Dự án tiêu biểu
 
-### 🚘 [Smart Automated Car Wash Management System](https://github.com/harry-leon/Smart-Automated-Car-Wash-Management-System)
+### 🚘 [Smart Automated Car Wash Management System](https://github.com/SmartAutomatedCarWash/Smart-Automated-Car-Wash-Management-System)
 *Collaborative Developer (Frontend & Business Logic)*
 *   **Description:** An enterprise-grade booking and management dashboard for automated car wash lines.
 *   **Key Deliverables:** Engineered dynamic booking flows, real-time car wash session states, tiered loyalty/promotion logic, automated notifications, and interactive management dashboards.
 *   **Core Stack:** React, TypeScript, Tailwind CSS, State Management.
-*   <a href="https://github.com/harry-leon/Smart-Automated-Car-Wash-Management-System"><b>Explore Project Repo ➔</b></a>
+*   <a href="https://github.com/SmartAutomatedCarWash/Smart-Automated-Car-Wash-Management-System"><b>Explore Project Repo ➔</b></a>
 
 ---
 
