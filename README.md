@@ -141,8 +141,7 @@
 
 ---
 
-## 🔬 Research / Nghiên cứu khoa học
-
+## 🔬 Research
 ### 🔬 [Quantum-Inspired NFR Classification](https://github.com/Lancelot-sys25/Quantum-Inspired-NFR-Classification)
 *Researcher (Machine Learning & NFR Classification)*
 *   **Description:** An experimental machine learning application using quantum-inspired logic gates to classify non-functional requirements (NFRs).
