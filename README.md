@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Toolkit / Công nghệ sử dụng
+## 🛠️ Tech Stack & Toolkit
 
 ### 💻 Core Development Stack
 <div align="center">
@@ -95,7 +95,7 @@
 
 ---
 
-## 🏆 Featured Projects / Dự án tiêu biểu
+## 🏆 Featured Projects
 
 ### 🚘 [Smart Automated Car Wash Management System](https://github.com/SmartAutomatedCarWash/Smart-Automated-Car-Wash-Management-System)
 *Collaborative Developer (Frontend & Business Logic)*
