@@ -16,7 +16,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🧭 About Me</h3>
-      <p>A Software Engineer specializing in backend architectures, cloud integration, and IoT automation. Committed to writing clean, maintainable code and learning system design principles to build highly reliable, scalable enterprise solutions that solve complex business and user needs.</p>
+      <p>A Software Engineering student with a backend foundation and hands-on fullstack development experience.</p>
     </td>
     <td width="45%" valign="top">
       <h3>⚡ Quick Snapshot</h3>
